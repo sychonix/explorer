@@ -1,0 +1,17 @@
+{
+    "chain_name": "quark-1",
+    "coingecko": "",
+    "api": ["https://test-neutron-api.genznodes.dev"],
+    "rpc": ["https://test-neuron-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.5",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "neutron",
+    "logo": "Genz22/explorer/public/logos/neutron.jpg",
+    "assets": [{
+        "base": "untrn",
+        "symbol": "NTRN",
+        "exponent": "6",
+        "logo": "Genz22/explorer/public/logos/neutron.jpg"
+    }]
+}
