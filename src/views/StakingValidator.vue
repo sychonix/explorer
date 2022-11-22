@@ -11,7 +11,7 @@
           <!-- User Avatar & Action Buttons -->
           <div class="d-flex justify-content-start">
             <b-avatar
-              :src="/public/GN.png"
+              :src="validator.avatar"
               :variant="`light-primary`"
               size="104px"
               rounded
@@ -21,7 +21,7 @@
                 <h4 class="mb-0">
                   {{ validator.description.moniker }}
                 </h4>
-                <span class="card-text">{{ Independent Node Runner | Stake and Earn }}</span>
+                <span class="card-text">{{ validator.description.website }}</span>
               </div>
               <div class="d-flex flex-wrap">
                 <b-button
@@ -111,7 +111,7 @@
                 <span class="font-weight-bold">Identity</span>
               </th>
               <td class="pb-50">
-                <small>{{ validator.description.identity || '86D0A9427E51D239' }}</small>
+                <small>{{ validator.description.identity || '-' }}</small>
               </td>
             </tr>
             <tr>
@@ -135,7 +135,7 @@
                 <span class="font-weight-bold">Unbond Height</span>
               </th>
               <td class="pb-50 text-capitalize">
-                {{ validator.unbonding_height || '0' }}
+                {{ validator.unbonding_height || '-' }}
               </td>
             </tr>
             <tr>
