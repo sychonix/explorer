@@ -19,36 +19,36 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://ping.pub/logo.svg',
+      icon: 'https://user-images.githubusercontent.com/94878333/203291225-aef51c19-3143-45cf-877c-5c381677ab3e.png',
     })
   }
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
       title: 'Mainnet Explorer',
-      href: 'https://ping.pub',
+      href: 'https://explore.genznodes.dev',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
       title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
+      href: 'https://explore.genznodes.dev',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/genznodes',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'FAQ',
-    href: 'https://github.com/ping-pub/explorer/discussions',
+    href: 'https://github.com/Genz22',
     icon: 'MessageSquareIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/Genz22',
     icon: 'GithubIcon',
   })
 
