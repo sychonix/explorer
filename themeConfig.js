@@ -9,9 +9,9 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'Explore', // Will update name in navigation menu (Branding)
+    appName: 'Explorer', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: '/GN.png', // Will update logo in navigation menu (Branding)
+    appLogoImage: '/public/GN.png', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,

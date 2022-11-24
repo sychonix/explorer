@@ -1,7 +1,7 @@
 {
     "chain_name": "neutron-testnet",
     "coingecko": "",
-    "api": ["https://test-neutron-api.genznodes.dev/","https://api-t.neutron.nodestake.top/"],
+    "api": ["https://rest.quark.ntrn.info","https://test-neutron-api.genznodes.dev/","https://api-t.neutron.nodestake.top/"],
     "rpc": ["https://test-neuron-rpc.genznodes.dev/","https://rpc-t.neutron.nodestake.top/"],
     "sdk_version": "v0.45.5",
     "coin_type": "118",
