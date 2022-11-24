@@ -11,7 +11,7 @@ export const $themeConfig = {
   app: {
     appName: 'Explore', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: '/public/GN.png', // Will update logo in navigation menu (Branding)
+    appLogoImage: '/GN.png', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
