@@ -7,11 +7,11 @@
     "coin_type": "118",
     "min_tx_fee": "200",
     "addr_prefix": "mun",
-    "logo": "/public/logos/mun.png",
+    "logo": "/logos/mun.png",
     "assets": [{
         "base": "utmun",
         "symbol": "MUN",
         "exponent": "6",
-        "logo": "/public/logos/mun.png"
+        "logo": "/logos/mun.png"
     }]
 }

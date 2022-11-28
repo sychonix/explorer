@@ -7,11 +7,11 @@
     "coin_type": "118",
     "min_tx_fee": "200",
     "addr_prefix": "neutron",
-    "logo": "/public/logos/neutron.jpg",
+    "logo": "/logos/neutron.jpg",
     "assets": [{
         "base": "untrn",
         "symbol": "NTRN",
         "exponent": "6",
-        "logo": "/public/logos/neutron.jpg"
+        "logo": "/logos/neutron.jpg"
     }]
 }
