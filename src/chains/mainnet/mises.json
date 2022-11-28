@@ -1,5 +1,5 @@
 {
-    "chain_name": "mainnet",
+    "chain_name": "mises",
     "coingecko": "",
     "api": ["https://mises-api.genznodes.dev"],
     "rpc": ["https://mises-rpc.genznodes.dev"],
