@@ -1,0 +1,17 @@
+{
+    "chain_name": "mainnet",
+    "coingecko": "",
+    "api": ["https://mises-api.genznodes.dev"],
+    "rpc": ["https://mises-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.5",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "mises",
+    "logo": "/logos/mises.jpg",
+    "assets": [{
+        "base": "umis",
+        "symbol": "MIS",
+        "exponent": "6",
+        "logo": "/logos/mises.jpg"
+    }]
+}
