@@ -1,0 +1,17 @@
+{
+    "chain_name": "realio-testnet",
+    "coingecko": "",
+    "api": ["https://test-realio-api.genznodes.dev"],
+    "rpc": ["https://test-realio-rpc.genznodes.dev"],
+    "sdk_version": "v0.46.6",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "ario",
+    "logo": "/logos/realio.jpg",
+    "assets": [{
+        "base": "ario",
+        "symbol": "RIO",
+        "exponent": "18",
+        "logo": "/logos/realio.jpg"
+    }]
+}
