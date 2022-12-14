@@ -1,0 +1,17 @@
+{
+    "chain_name": "nolus-rila",
+    "coingecko": "",
+    "api": ["https://test-nolus-api.genznodes.dev"],
+    "rpc": ["https://test-nolus-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "nolus",
+    "logo": "/logos/nolus.jpg",
+    "assets": [{
+        "base": "unls",
+        "symbol": "NOLUS",
+        "exponent": "6",
+        "logo": "/logos/nolus.jpg"
+    }]
+}

@@ -1,0 +1,17 @@
+{
+    "chain_name": "human-testnet",
+    "coingecko": "",
+    "api": ["https://test-human-api.genznodes.dev"],
+    "rpc": ["https://test-human-rpc.genznodes.dev"],
+    "sdk_version": "v0.46.3",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "human",
+    "logo": "/logos/human.svg",
+    "assets": [{
+        "base": "uheart",
+        "symbol": "HEART",
+        "exponent": "6",
+        "logo": "/logos/human.svg"
+    }]
+}
