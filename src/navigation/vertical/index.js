@@ -42,11 +42,6 @@ function processMenu() {
     icon: 'TwitterIcon',
   })
   chainMenus.push({
-    title: 'FAQ',
-    href: 'https://github.com/Genz22',
-    icon: 'MessageSquareIcon',
-  })
-  chainMenus.push({
     title: 'Github',
     href: 'https://github.com/Genz22',
     icon: 'GithubIcon',
