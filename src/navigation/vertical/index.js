@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://user-images.githubusercontent.com/94878333/203291225-aef51c19-3143-45cf-877c-5c381677ab3e.png',
+      icon: 'GN.PNG',
     })
   }
   chainMenus.push({ header: 'LINKS' })

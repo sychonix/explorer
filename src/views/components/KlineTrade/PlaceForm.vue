@@ -416,7 +416,7 @@ export default {
         this.address,
         txMsgs,
         txFee,
-        'Sent Via https://ping.pub',
+        'Sent Via https://explorer.genznodes.dev',
         signerData,
       ).then(bodyBytes => {
         this.$http.broadcastTx(bodyBytes).then(res => {
