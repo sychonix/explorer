@@ -9,7 +9,7 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'genznodes explorer', // Will update name in navigation menu (Branding)
+    appName: 'explorer', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/GN.png', // Will update logo in navigation menu (Branding)
   },

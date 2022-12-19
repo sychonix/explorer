@@ -121,7 +121,7 @@ enable = true
 rpc_servers = "${this.servers}"
 trust_height = ${this.height}
 trust_hash = "${this.hash}"
-trust_period = "168h"  # 2/3 of unbonding time`
+trust_period = "168h"
           this.check()
         })
       }
