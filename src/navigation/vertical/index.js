@@ -32,7 +32,7 @@ function processMenu() {
   } else {
     chainMenus.push({
       title: 'Testnet Explorer',
-      href: 'https://explorer.genznodes.dev',
+      href: 'https://testnet-explorer.genznodes.dev',
       icon: 'LifeBuoyIcon',
     })
   }
