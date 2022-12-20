@@ -26,13 +26,13 @@ function processMenu() {
   if (isTestnet()) {
     chainMenus.push({
       title: 'Mainnet Explorer',
-      href: 'https://explore.genznodes.dev',
+      href: 'https://explorer.genznodes.dev',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
       title: 'Testnet Explorer',
-      href: 'https://explore.genznodes.dev',
+      href: 'https://explorer.genznodes.dev',
       icon: 'LifeBuoyIcon',
     })
   }
