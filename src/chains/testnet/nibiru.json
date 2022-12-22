@@ -1,0 +1,18 @@
+{
+    "chain_name": "nibiru-testnet",
+    "coingecko": "",
+    "api": ["https://test-nibiru-api.genznodes.dev"],
+    "rpc": ["https://test-nibiru-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.10",
+    "tendermint_version": "v0.34.22",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "nibi",
+    "logo": "/logos/nibiru.jpg",
+    "assets": [{
+        "base": "unibi",
+        "symbol": "NIBI",
+        "exponent": "6",
+        "logo": "/logos/nibiru.jpg"
+    }]
+}

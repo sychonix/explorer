@@ -2,7 +2,7 @@
     "chain_name": "testmun",
     "coingecko": "",
     "api": ["https://test-mun-api.genznodes.dev"],
-    "rpc": ["https://test-nun-rpc.genznodes.dev"],
+    "rpc": ["https://test-mun-rpc.genznodes.dev"],
     "sdk_version": "v0.45.5",
     "coin_type": "118",
     "min_tx_fee": "200",
