@@ -1,0 +1,17 @@
+{
+    "chain_name": "planq",
+    "coingecko": "",
+    "api": ["https://planq-api.genznodes.dev"],
+    "rpc": ["https://planq-rpc.genznodes.dev"],
+    "sdk_version": "v0.46.3",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "plq",
+    "logo": "/logos/planq.jpg",
+    "assets": [{
+        "base": "aplanq",
+        "symbol": "PLANQ",
+        "exponent": "18",
+        "logo": "/logos/planq.jpg"
+    }]
+}
