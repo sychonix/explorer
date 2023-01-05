@@ -1,0 +1,17 @@
+{
+    "chain_name": "lava-testnet",
+    "coingecko": "",
+    "api": ["https://test-lava-api.genznodes.dev"],
+    "rpc": ["https://test-lava-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "lava",
+    "logo": "/logos/lava.jpg",
+    "assets": [{
+        "base": "ulava",
+        "symbol": "LAVA",
+        "exponent": "6",
+        "logo": "/logos/lava.jpg"
+    }]
+}
