@@ -1,0 +1,18 @@
+{
+    "chain_name": "dyson",
+    "api": "https://dyson-api.genznodes.dev/",
+    "rpc": "https://dyson-rpc.genznodes.dev/",
+    "sdk_version": "0.46.2",
+    "coin_type": "118",
+    "min_tx_fee": "1",
+    "addr_prefix": "dys",
+    "logo": "/logos/dyson.png",
+    "assets": [{
+        "base": "dys",
+        "symbol": "DYS",
+        "exponent": "0",
+        "coingecko_id": "", 
+        "logo": "/logos/dyson.png"
+    }]
+}
+
