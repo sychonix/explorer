@@ -10,7 +10,7 @@
     "assets": [{
         "base": "dys",
         "symbol": "DYS",
-        "exponent": "1",
+        "exponent": "0",
         "coingecko_id": "", 
         "logo": "/logos/dyson.png"
     }]
