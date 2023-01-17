@@ -4,13 +4,13 @@
     "rpc": ["https://dyson-rpc.genznodes.dev"],
     "sdk_version": "0.46.2",
     "coin_type": "118",
-    "min_tx_fee": "1",
+    "min_tx_fee": "200",
     "addr_prefix": "dys",
     "logo": "/logos/dyson.png",
     "assets": [{
         "base": "dys",
         "symbol": "DYS",
-        "exponent": "0",
+        "exponent": "1",
         "coingecko_id": "", 
         "logo": "/logos/dyson.png"
     }]
