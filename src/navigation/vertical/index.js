@@ -27,7 +27,7 @@ function processMenu() {
     chainMenus.push({
       title: 'Mainnet Explorer',
       href: 'https://explorer.genznodes.dev',
-      icon: 'ChromeIcon',
+      icon: 'LifeBuoyIcon',
     })
   } else {
     chainMenus.push({
@@ -36,6 +36,11 @@ function processMenu() {
       icon: 'LifeBuoyIcon',
     })
   }
+  chainMenus.push({
+    title: 'Websites',
+    href: 'https://genznodes.dev',
+    icon: 'ChromeIcon',
+  })
   chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/genznodes',

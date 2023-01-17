@@ -9,14 +9,14 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'explorer', // Will update name in navigation menu (Branding)
+    appName: 'Explorer', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/GN.png', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
     skin: 'light', // light, dark, bordered, semi-dark
-    routerTransition: 'zoom-fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
+    routerTransition: 'fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
     type: 'vertical', // vertical, horizontal
     contentWidth: 'full', // full, boxed
     menu: {
