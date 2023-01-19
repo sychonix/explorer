@@ -11,12 +11,12 @@ export const $themeConfig = {
   app: {
     appName: 'Explorer', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: '/GN.png', // Will update logo in navigation menu (Branding)
+    appLogoImage: '/logo2.png', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
-    skin: 'semi-dark', // light, dark, bordered, semi-dark
-    routerTransition: 'fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
+    skin: 'bordered', // light, dark, bordered, semi-dark
+    routerTransition: 'slide-fade', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
     type: 'vertical', // vertical, horizontal
     contentWidth: 'full', // full, boxed
     menu: {
