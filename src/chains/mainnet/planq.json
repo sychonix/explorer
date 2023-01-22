@@ -5,7 +5,7 @@
     "rpc": ["https://planq-rpc.genznodes.dev"],
     "sdk_version": "v0.46.3",
     "coin_type": "60",
-    "min_tx_fee": "200",
+    "min_tx_fee": "20000000000",
     "addr_prefix": "plq",
     "logo": "/logos/planq.jpg",
     "assets": [{
@@ -13,24 +13,5 @@
         "symbol": "PLANQ",
         "exponent": "18",
         "logo": "/logos/planq.jpg"
-    }],
-    "feeCurrencies": [
-		{
-			"coinDenom": "planq",
-			"coinMinimalDenom": "aplanq",
-			"coinDecimals": 18,
-			"coinGeckoId": "unknown",
-			"gasPriceStep": {
-				"low": 20000000000,
-				"average": 25000000000,
-				"high": 40000000000
-			}
-		}
-    ],
-    "features": [
-		"ibc-transfer",
-		"ibc-go",
-		"eth-address-gen",
-		"eth-key-sign"
-	]    
+    }] 
 }
