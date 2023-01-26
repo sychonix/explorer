@@ -1,5 +1,5 @@
 {
-    "chain_name": "nolus-testnet",
+    "chain_name": "nolus",
     "coingecko": "",
     "api": ["https://test-nolus-api.genznodes.dev"],
     "rpc": ["https://test-nolus-rpc.genznodes.dev"],

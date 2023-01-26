@@ -1,5 +1,5 @@
 {
-    "chain_name": "lava-testnet",
+    "chain_name": "lava",
     "coingecko": "",
     "api": ["https://test-lava-api.genznodes.dev"],
     "rpc": ["https://test-lava-rpc.genznodes.dev"],

@@ -1,5 +1,5 @@
 {
-    "chain_name": "mars-testnet",
+    "chain_name": "mars",
     "coingecko": "",
     "api": ["https://test-mars-api.genznodes.dev"],
     "rpc": ["https://test-mars-rpc.genznodes.dev"],

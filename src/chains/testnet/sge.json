@@ -1,5 +1,5 @@
 {
-    "chain_name": "sge-testnet",
+    "chain_name": "sge",
     "coingecko": "",
     "api": ["https://test-sge-api.genznodes.dev"],
     "rpc": ["https://test-sge-rpc.genznodes.dev"],

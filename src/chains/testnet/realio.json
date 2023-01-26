@@ -1,10 +1,10 @@
 {
-    "chain_name": "realio-testnet",
+    "chain_name": "realio-network",
     "coingecko": "",
     "api": ["https://test-realio-api.genznodes.dev"],
     "rpc": ["https://test-realio-rpc.genznodes.dev"],
     "sdk_version": "v0.46.6",
-    "coin_type": "118",
+    "coin_type": "60",
     "min_tx_fee": "200",
     "addr_prefix": "ario",
     "logo": "/logos/realio.jpg",

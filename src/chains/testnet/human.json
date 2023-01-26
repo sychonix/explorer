@@ -1,5 +1,5 @@
 {
-    "chain_name": "human-testnet",
+    "chain_name": "human",
     "coingecko": "",
     "api": ["https://test-human-api.genznodes.dev"],
     "rpc": ["https://test-human-rpc.genznodes.dev"],
