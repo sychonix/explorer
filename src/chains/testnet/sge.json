@@ -1,8 +1,8 @@
 {
     "chain_name": "sge",
     "coingecko": "",
-    "api": ["https://test-sge-api.genznodes.dev"],
-    "rpc": ["https://test-sge-rpc.genznodes.dev"],
+    "api": ["https://sge-api.genznodes.dev"],
+    "rpc": ["https://sge-rpc.genznodes.dev"],
     "sdk_version": "v0.45.5",
     "coin_type": "118",
     "min_tx_fee": "200",

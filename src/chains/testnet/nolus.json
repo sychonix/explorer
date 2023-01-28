@@ -1,8 +1,8 @@
 {
     "chain_name": "nolus",
     "coingecko": "",
-    "api": ["https://test-nolus-api.genznodes.dev"],
-    "rpc": ["https://test-nolus-rpc.genznodes.dev"],
+    "api": ["https://nolus-api.genznodes.dev"],
+    "rpc": ["https://nolus-rpc.genznodes.dev"],
     "sdk_version": "v0.45.10",
     "coin_type": "118",
     "min_tx_fee": "200",

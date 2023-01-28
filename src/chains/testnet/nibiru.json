@@ -1,8 +1,8 @@
 {
     "chain_name": "nibiru",
     "coingecko": "",
-    "api": ["https://test-nibiru-api.genznodes.dev"],
-    "rpc": ["https://test-nibiru-rpc.genznodes.dev"],
+    "api": ["https://nibiru-api.genznodes.dev"],
+    "rpc": ["https://nibiru-rpc.genznodes.dev"],
     "sdk_version": "v0.45.10",
     "tendermint_version": "v0.34.22",
     "coin_type": "118",

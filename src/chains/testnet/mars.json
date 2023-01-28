@@ -1,8 +1,8 @@
 {
     "chain_name": "mars",
     "coingecko": "",
-    "api": ["https://test-mars-api.genznodes.dev"],
-    "rpc": ["https://test-mars-rpc.genznodes.dev"],
+    "api": ["https://mars-api.genznodes.dev"],
+    "rpc": ["https://mars-rpc.genznodes.dev"],
     "sdk_version": "v0.46.7",
     "coin_type": "118",
     "min_tx_fee": "200",

@@ -1,8 +1,8 @@
 {
     "chain_name": "human",
     "coingecko": "",
-    "api": ["https://test-human-api.genznodes.dev"],
-    "rpc": ["https://test-human-rpc.genznodes.dev"],
+    "api": ["https://human-api.genznodes.dev"],
+    "rpc": ["https://human-rpc.genznodes.dev"],
     "sdk_version": "v0.46.3",
     "coin_type": "118",
     "min_tx_fee": "200",

@@ -1,8 +1,8 @@
 {
     "chain_name": "lava",
     "coingecko": "",
-    "api": ["https://test-lava-api.genznodes.dev"],
-    "rpc": ["https://test-lava-rpc.genznodes.dev"],
+    "api": ["https://lava-api.genznodes.dev"],
+    "rpc": ["https://lava-rpc.genznodes.dev"],
     "sdk_version": "v0.45.11",
     "coin_type": "118",
     "min_tx_fee": "200",
