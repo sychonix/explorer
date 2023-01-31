@@ -3,7 +3,7 @@
     "coingecko": "",
     "api": ["https://mars-api.genznodes.dev"],
     "rpc": ["https://mars-rpc.genznodes.dev"],
-    "sdk_version": "v0.46.7",
+    "sdk_version": "v0.46.8",
     "coin_type": "118",
     "min_tx_fee": "200",
     "addr_prefix": "mars",
