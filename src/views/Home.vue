@@ -3,18 +3,15 @@
     <full-header />
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
-        <!-- <vuexy-logo /> -->
+        <!-- <icon src="public\loading.png" /> -->
         <h1
-          class="text-primary display-4 font-weight-bolder d-none d-md-block"
+          class="text-black display-3 font-weight-bolder d-none d-md-block"
         >
-         genznodes explorer<small class="flow-left">Beta</small>
+          genznodes explorer<small class="flow-left">Beta</small>
         </h1>
       </div>
     </b-link>
 
-    <!-- <p class="mb-1">
-      Dashboard is not just an explorer but also a wallet and more ... 🛠
-    </p> -->
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
     </h2>

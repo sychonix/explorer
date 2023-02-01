@@ -4,12 +4,12 @@
       Powered By
       <b-link
         class="ml-25 font-weight-bolder"
-        href="#"
+        href="https://genznodes.dev"
         target="_blank"
-      >Ping.pub</b-link>
+      >genznodes.dev</b-link>
     </span>
 
-    <router-link
+    <!-- <router-link
       v-ripple.400="'rgba(113, 102, 240, 0.15)'"
       class="float-md-right"
       to="/coffee"
@@ -24,7 +24,7 @@
           class="text-danger stroke-current"
         />
       </span>
-    </router-link>
+    </router-link> -->
   </p>
 </template>
 

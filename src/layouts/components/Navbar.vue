@@ -224,6 +224,7 @@ export default {
   props: {
     toggleVerticalMenuActive: {
       type: Function,
+      // eslint-disable-next-line @typescript-eslint/no-empty-function
       default: () => {},
     },
   },

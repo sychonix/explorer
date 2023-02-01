@@ -12,7 +12,7 @@
             variant="light-info"
             class="text-right"
           >
-            {{$t('governance-proposal.proposal_status_deposit')}}
+            {{ $t('governance-proposal.proposal_status_deposit') }}
           </b-badge>
           <b-badge
             v-if="proposal.status == 2"
@@ -20,7 +20,7 @@
             variant="light-primary"
             class="text-right"
           >
-            {{$t('governance-proposal.proposal_status_voting')}}
+            {{ $t('governance-proposal.proposal_status_voting') }}
           </b-badge>
           <b-badge
             v-if="proposal.status == 3"
@@ -28,7 +28,7 @@
             variant="light-success"
             class="text-right"
           >
-            {{$t('governance-proposal.proposal_status_passed')}}
+            {{ $t('governance-proposal.proposal_status_passed') }}
           </b-badge>
           <b-badge
             v-if="proposal.status == 4"
@@ -36,7 +36,7 @@
             variant="light-danger"
             class="text-right"
           >
-            {{$t('governance-proposal.proposal_status_rejected')}}
+            {{ $t('governance-proposal.proposal_status_rejected') }}
           </b-badge>
           {{ proposal.title }}
         </b-card-title>
@@ -45,7 +45,7 @@
         <div>
           <object-field-component
             :tablefield="proposal.contents"
-            :small="false"
+            :small="true"
           /></div>
         <b-table-simple
           stacked="sm"
@@ -464,10 +464,10 @@ export default {
     background: #fff;
     border-radius: 6px;
     cursor: pointer;
-    box-shadow: none;
+    box-shadow: 2;
 }
 .addzone :hover {
-    border: 2px dashed #7367F0;
+    border: 2px dashed #837dc7;
 }
 @media (min-width: 768px) {
   td:first-child { width: 20% ;}

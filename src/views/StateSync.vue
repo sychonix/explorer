@@ -9,10 +9,10 @@
     </b-card>
     <b-card>
       <b-card-title>
-        Starting New Node From State Sync
+        Intruction for statesync ( <code>{{ daemon }}</code> : <code>{{ app_version }}</code>)
       </b-card-title>
-      <b class="mt-1">1. Install Binary (Version: {{ app_version }})</b><br>
-      We need to install the binary first and make sure that the version is the one currently in use on mainnet.
+      <b class="mt-1">1. Go to genznodes service by click <a href="https://genznodes.dev/statesync">here</a> make sure you choose the right service for the network you want ❤</b><br>
+      <!-- We need to install the binary first and make sure that the version is the one currently in use on mainnet.
       <br><br>
       <b class="mt-1">2. Enable State Sync</b><br>
       We can configure Tendermint to use state sync in <code>$DAEMON_HOME/config/config.toml</code>.
@@ -36,10 +36,10 @@
         @change="check()"
       />
       <b class="mt-1">3. Start the daemon: <span v-if="daemon"><code>{{ daemon }} start</code></span></b><br>
-      If you are resetting node, run <code>{{ daemon }} unsafe-reset-all</code> or <code>{{ daemon }} tendermint unsafe-reset-all --home ~/.HOME</code> before you start the daemon.
+      If you are resetting node, run <code>{{ daemon }} unsafe-reset-all</code> or <code>{{ daemon }} tendermint unsafe-reset-all --home ~/.HOME</code> before you start the daemon. -->
     </b-card>
 
-    <b-card>
+    <!-- <b-card>
       <b-card-title>
         Enable Snapshot For State Sync
       </b-card-title>
@@ -51,7 +51,7 @@
         rows="8"
         class="mt-1"
       />
-    </b-card>
+    </b-card> -->
   </div>
 </template>
 
