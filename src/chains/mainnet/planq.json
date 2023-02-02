@@ -1,17 +1,29 @@
 {
     "chain_name": "planq",
-    "coingecko": "",
-    "api": ["https://planq-api.genznodes.dev"],
-    "rpc": ["https://planq-rpc.genznodes.dev"],
-    "sdk_version": "v0.46.3",
+    "api": [
+            "https://planq-api.genznodes.dev/",
+            "https://rest.planq.network"
+          ],
+    "rpc": [
+            "https://planq-rpc.genznodes.dev/",
+            "https://rpc.planq.network"
+          ],
+    "sdk_version": "0.46.3",
     "coin_type": "60",
-    "min_tx_fee": "20000000000",
+    "min_tx_fee": "5000000000000000",
     "addr_prefix": "plq",
-    "logo": "/logos/planq.jpg",
+    "logo": "/logos/planq.png",
     "assets": [{
         "base": "aplanq",
-        "symbol": "PLANQ",
+        "symbol": "planq",
         "exponent": "18",
-        "logo": "/logos/planq.jpg"
-    }] 
+        "coingecko_id": "",
+        "logo": "/logos/planq.png"
+    }],
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 20000000000,
+      "average": 25000000000,
+      "high": 40000000000
+    }
 }

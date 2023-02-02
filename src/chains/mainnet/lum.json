@@ -1,0 +1,18 @@
+{
+    "chain_name": "lum-network",
+    "coingecko": "lum-network",
+    "api": ["https://lum-api.genznodes.dev/"],
+    "rpc": ["https://lum-rpc.genznodes.dev/"],
+    "sdk_version": "v0.46.7",
+    "coin_type": "880",
+    "min_tx_fee": "5000",
+    "addr_prefix": "lum",
+    "logo": "/logos/lum.jpg",
+    "assets": [{
+        "base": "ulum",
+        "symbol": "LUM",
+        "exponent": "6",
+        "coingecko_id": "lum-network", 
+        "logo": "/logos/lum.jpg"
+    }]
+}
