@@ -1,23 +1,28 @@
 {
     "chain_name": "mars",
-    "coingecko": "",
+    "coingecko": "mars-protocol",
     "api": [
         "https://mars-api.genznodes.dev",
-        "https://mars-api.polkachu.com"
-        ],
+        "https://mars-api.polkachu.com",
+        "https://rest.cosmos.directory/mars"
+    ],
     "rpc": [
-            "https://mars-rpc.genznodes.dev",
-            "https://mars-rpc.polkachu.com"
-        ],
-    "sdk_version": "v0.46.8",
+        "https://mars-rpc.genznodes.dev",
+        "https://mars-rpc.polkachu.com",
+        "https://rpc.cosmos.directory/mars"
+    ],
+    "snapshot_provider": "",
     "coin_type": "118",
-    "min_tx_fee": "100",
+    "sdk_version": "0.46.8",
     "addr_prefix": "mars",
     "logo": "/logos/mars.jpg",
-    "assets": [{
-        "base": "umars",
-        "symbol": "MARS",
-        "exponent": "6",
-        "logo": "/logos/mars.jpg"
-    }]
+    "assets": [
+        {
+            "base": "umars",
+            "symbol": "MARS",
+            "exponent": "6",
+            "coingecko_id": "mars-protocol",
+            "logo": "/logos/mars.jpg"
+        }
+    ]
 }
