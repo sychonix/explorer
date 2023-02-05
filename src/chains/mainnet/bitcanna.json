@@ -1,0 +1,22 @@
+{
+    "chain_name": "bitcanna",
+    "coingecko": "bitcanna",
+    "api": [
+        "https://bitcanna-api.genznodes.dev"
+        ],
+    "rpc": [
+            "https://bitcanna-rpc.genznodes.dev"
+        ],
+    "sdk_version": "v0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "420",
+    "addr_prefix": "bcna",
+    "logo": "/logos/bitcanna.png",
+    "assets": [{
+        "base": "ubcna",
+        "symbol": "BCNA",
+        "exponent": "6",
+        "coingecko_id": "bitcanna", 
+        "logo": "/logos/bitcanna.svg"
+    }]
+}
