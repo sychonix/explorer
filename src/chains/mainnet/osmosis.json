@@ -20,7 +20,7 @@
         "symbol": "ION",
         "exponent": "6",
         "coingecko_id": "ion", 
-        "logo": "/logos/osmosis.jpg"
+        "logo": ""
     },{
         "base": "usomm",
         "symbol": "SOMM",
