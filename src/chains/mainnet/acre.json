@@ -29,8 +29,8 @@
     }],
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "keplr_price_step": {
-      "low": 2000000000000000,
-      "average": 5000000000000000,
-      "high": 7000000000000000
+      "low": 20000000000,
+      "average": 50000000000,
+      "high": 70000000000
     }
 }
