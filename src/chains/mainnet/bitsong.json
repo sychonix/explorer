@@ -1,0 +1,22 @@
+{
+    "chain_name": "bitsong",
+    "coingecko": "bitsong",
+    "api": [
+        "https://bitsong-api.genznodes.dev"
+        ],
+    "rpc": [
+            "https://bitsong-rpc.genznodes.dev"
+        ],
+    "sdk_version": "v0.45.11",
+    "coin_type": "639",
+    "min_tx_fee": "5000",
+    "addr_prefix": "bcna",
+    "logo": "/logos/bitsong.jpg",
+    "assets": [{
+        "base": "ubtsg",
+        "symbol": "BTSG",
+        "exponent": "6",
+        "coingecko_id": "bitsong", 
+        "logo": "/logos/bitsong.jpg"
+    }]
+}
