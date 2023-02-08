@@ -10,7 +10,7 @@
     "sdk_version": "v0.45.11",
     "coin_type": "639",
     "min_tx_fee": "5000",
-    "addr_prefix": "bcna",
+    "addr_prefix": "bitsong",
     "logo": "/logos/bitsong.jpg",
     "assets": [{
         "base": "ubtsg",
