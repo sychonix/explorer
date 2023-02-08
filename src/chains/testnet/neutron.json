@@ -1,0 +1,25 @@
+{
+    "chain_name": "baryon",
+    "coingecko": "",
+    "api": [
+        "https://baryon-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://baryon-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.45.11",
+    "min_tx_fee": "200",
+    "addr_prefix": "neutron",
+    "logo": "/logos/neutron.jpg",
+    "assets": [
+        {
+            "base": "untrn",
+            "symbol": "NTRN",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/neutron.jpg"
+        }
+    ]
+}
