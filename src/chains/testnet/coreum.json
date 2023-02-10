@@ -1,0 +1,18 @@
+{
+    "chain_name": "coreum",
+    "coingecko": "",
+    "api": ["https://test-coreum-api.genznodes.dev"],
+    "rpc": ["https://test-coreum-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.11",
+    "tendermint_version": "0.34.23",
+    "coin_type": "990",
+    "min_tx_fee": "6000",
+    "addr_prefix": "testcore",
+    "logo": "/logos/coreum.jpg",
+    "assets": [{
+        "base": "utestcore",
+        "symbol": "TESTCORE",
+        "exponent": "6",
+        "logo": "/logos/coreum.jpg"
+    }]
+}
