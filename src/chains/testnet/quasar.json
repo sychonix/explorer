@@ -1,0 +1,17 @@
+{
+    "chain_name": "quasar",
+    "coingecko": "",
+    "api": ["https://test-quasar-api.genznodes.dev"],
+    "rpc": ["https://test-quasar-rpc.genznodes.dev"],
+    "sdk_version": "v0.46.4",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "quasar",
+    "logo": "/logos/quasar.png",
+    "assets": [{
+        "base": "uqsr",
+        "symbol": "QSR",
+        "exponent": "6",
+        "logo": "/logos/quasar.png"
+    }]
+}
