@@ -7,7 +7,7 @@
           ],
     "rpc": [
             "https://planq-rpc.genznodes.dev/",
-            "https://rpc.cosmos.directory/planq"          
+            "https://rpc.cosmos.directory/acre"          
           ],
     "sdk_version": "0.46.10",
     "coin_type": "60",
@@ -29,8 +29,8 @@
     }],
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "keplr_price_step": {
-      "low": 20000000000,
-      "average": 50000000000,
-      "high": 70000000000
+      "low": 10000000000,
+		"average": 25000000000,
+		"high": 40000000000
     }
 }
