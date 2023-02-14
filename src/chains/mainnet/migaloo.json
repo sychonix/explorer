@@ -1,0 +1,17 @@
+{
+    "chain_name": "whitewhale",
+    "coingecko": "",
+    "api": ["https://migaloo-api.genznodes.dev"],
+    "rpc": ["https://migaloo-rpc.genznodes.dev"],
+    "sdk_version": "v0.46.9",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "migaloo",
+    "logo": "/logos/migaloo.jpg",
+    "assets": [{
+        "base": "uwhale",
+        "symbol": "WHALE",
+        "exponent": "6",
+        "logo": "/logos/migaloo.jpg"
+    }]
+}
