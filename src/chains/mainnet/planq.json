@@ -1,5 +1,6 @@
 {
     "chain_name": "planq",
+    "coingecko": "planq",
     "api": [
             "https://rest.cosmos.directory/planq",
             "https://planq-api.genznodes.dev/"
@@ -17,12 +18,12 @@
         "base": "aplanq",
         "symbol": "planq",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "planq",
         "logo": "/logos/planq.jpg"
     }],
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "keplr_price_step": {
-      "low": 20000000000,
+      "low": 2000000000,
       "average": 25000000000,
       "high": 40000000000
     }
