@@ -1,8 +1,8 @@
 {
     "chain_name": "whitewhale",
     "coingecko": "",
-    "api": ["https://migaloo-api.genznodes.dev"],
-    "rpc": ["https://migaloo-rpc.genznodes.dev"],
+    "api": ["https://rest.cosmos.directory/migaloo"],
+    "rpc": ["https://rpc.cosmos.directory/migaloo"],
     "sdk_version": "v0.46.9",
     "coin_type": "118",
     "min_tx_fee": "200",
