@@ -3,11 +3,11 @@
     "coingecko": "planq",
     "api": [
             "https://rest.cosmos.directory/planq",
-            "https://planq-api.genznodes.dev/"
+            "https://planq-api.genznodes.dev"
           ],
     "rpc": [
             "https://rpc.cosmos.directory/planq",
-            "https://planq-rpc.genznodes.dev/"
+            "https://planq-rpc.genznodes.dev"
           ],
     "sdk_version": "0.46.3",
     "coin_type": "60",
