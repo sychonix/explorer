@@ -1,0 +1,28 @@
+{
+    "chain_name": "xpla",
+    "coingecko": "xpla",
+    "api": [
+            "https://xpla-api.genznodes.dev"
+          ],
+    "rpc": [
+            "https://xpla-rpc.genznodes.dev"
+          ],
+    "sdk_version": "v0.45.9",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "xpla",
+    "logo": "/logos/xpla.jpg",
+    "assets": [{
+        "base": "axpla",
+        "symbol": "XPLA",
+        "exponent": "18",
+        "coingecko_id": "xpla",
+        "logo": "/logos/xpla.jpg"
+    }],
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 2000000000,
+      "average": 25000000000,
+      "high": 40000000000
+    }
+}
