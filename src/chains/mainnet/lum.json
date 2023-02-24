@@ -1,5 +1,5 @@
 {
-    "chain_name": "lum-network",
+    "chain_name": "lum",
     "coingecko": "lum-network",
     "api": ["https://lum-api.genznodes.dev/"],
     "rpc": ["https://lum-rpc.genznodes.dev/"],
