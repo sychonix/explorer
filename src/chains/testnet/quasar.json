@@ -1,11 +1,11 @@
 {
     "chain_name": "quasar",
     "coingecko": "",
-    "api": ["https://test-quasar-api.genznodes.dev"],
-    "rpc": ["https://test-quasar-rpc.genznodes.dev"],
+    "api": ["https://test-quasar-api.genznodes.dev","https://quasar-testnet-api.polkachu.com"],
+    "rpc": ["https://test-quasar-rpc.genznodes.dev","https://quasar-testnet-rpc.polkachu.com"],
     "sdk_version": "v0.46.4",
     "coin_type": "118",
-    "min_tx_fee": "200",
+    "min_tx_fee": "8000",
     "addr_prefix": "quasar",
     "logo": "/logos/quasar.png",
     "assets": [{
@@ -13,5 +13,20 @@
         "symbol": "QSR",
         "exponent": "6",
         "logo": "/logos/quasar.png"
-    }]
+      },
+      {
+        "base": "uayy",
+        "symbol": "AYY",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": ""
+      },
+      {
+        "base": "uoro",
+        "symbol": "ORO",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": ""
+      }
+    ]
 }

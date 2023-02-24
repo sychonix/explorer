@@ -1,17 +1,18 @@
 {
     "chain_name": "meme",
-    "coingecko": "",
+    "coingecko": "meme-network",
     "api": ["https://meme-api.genznodes.dev"],
     "rpc": ["https://meme-rpc.genznodes.dev"],
-    "sdk_version": "v0.45.1",
+    "sdk_version": "v0.45.9",
     "coin_type": "118",
-    "min_tx_fee": "200",
+    "min_tx_fee": "8000",
     "addr_prefix": "meme",
     "logo": "/logos/meme.jpg",
     "assets": [{
         "base": "umeme",
         "symbol": "MEME",
         "exponent": "6",
+        "coingecko_id": "meme-network",
         "logo": "/logos/meme.jpg"
     }]
 }

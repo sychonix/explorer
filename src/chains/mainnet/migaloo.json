@@ -1,17 +1,21 @@
 {
-    "chain_name": "whitewhale",
+    "chain_name": "Migaloo",
     "coingecko": "",
-    "api": ["https://rest.cosmos.directory/migaloo"],
-    "rpc": ["https://rpc.cosmos.directory/migaloo"],
-    "sdk_version": "v0.46.9",
-    "coin_type": "118",
-    "min_tx_fee": "200",
+    "api": ["https://api.migaloo.silknodes.io"],
+    "rpc": ["https://rpc.migaloo.silknodes.io"],
+    "snapshot_provider": "",
+    "coin_type": 118,
+    "sdk_version": "0.45.9",
     "addr_prefix": "migaloo",
-    "logo": "/logos/migaloo.jpg",
-    "assets": [{
+    "logo": "/logos/migaloo.png",
+    "assets": [
+      {
         "base": "uwhale",
         "symbol": "WHALE",
-        "exponent": "6",
-        "logo": "/logos/migaloo.jpg"
-    }]
-}
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/whitewhale.jpg"
+      }
+    ]
+  }
+  

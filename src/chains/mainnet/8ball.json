@@ -9,7 +9,7 @@
     ],
     "snapshot_provider": "",
     "coin_type": "118",
-    "sdk_version": "v0.46.7",
+    "sdk_version": "v0.46.8",
     "addr_prefix": "8ball",
     "logo": "/logos/8ball.png",
     "assets": [
