@@ -1,0 +1,25 @@
+{
+    "chain_name": "Arkhadian",
+    "coingecko": "",
+    "api": [
+        "https://arkh-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://arkh-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "sdk_version": "v0.44.5",
+    "addr_prefix": "arkh",
+    "logo": "/logos/arkh.png",
+    "assets": [
+        {
+            "base": "uarkh",
+            "symbol": "ARKH",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/arkh.png"
+        }
+    ]
+}
