@@ -1,0 +1,22 @@
+{
+    "chain_name": "router-protocol",
+    "coingecko": "",
+    "api": ["https://devnet.lcd.routerprotocol.com/"],
+    "rpc": ["https://devnet.tm.routerprotocol.com/"],
+    "sdk_version": "v0.45.5",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "router",
+    "logo": "/logos/router-protocol.jpg",
+    "assets": [{
+        "base": "route",
+        "symbol": "ROUTE",
+        "exponent": "18",
+        "logo": "/logos/router-protocol.jpg"
+    }],
+    "keplr_price_step": {
+        "low": 2000000000,
+        "average": 25000000000,
+        "high": 40000000000
+      }
+}
