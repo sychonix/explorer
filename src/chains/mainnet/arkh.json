@@ -2,9 +2,11 @@
     "chain_name": "Arkhadian",
     "coingecko": "",
     "api": [
+        "https://rest.cosmos.directory/arkh",
         "https://arkh-api.genznodes.dev"
     ],
     "rpc": [
+        "https://rpc.cosmos.directory/arkh",
         "https://arkh-rpc.genznodes.dev"
     ],
     "snapshot_provider": "",

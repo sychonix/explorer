@@ -2,10 +2,10 @@
     "chain_name": "bitcanna",
     "coingecko": "bitcanna",
     "api": [
-        "https://bitcanna-api.genznodes.dev"
+        "https://rest.cosmos.directory/bitcanna"
         ],
     "rpc": [
-            "https://bitcanna-rpc.genznodes.dev"
+        "https://rpc.cosmos.directory/bitcanna"
         ],
     "sdk_version": "v0.45.10",
     "coin_type": "118",

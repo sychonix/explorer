@@ -1,8 +1,8 @@
 {
     "chain_name": "lum",
     "coingecko": "lum-network",
-    "api": ["https://lum-api.genznodes.dev/"],
-    "rpc": ["https://lum-rpc.genznodes.dev/"],
+    "api": ["https://rest.cosmos.directory/lumnetwork"],
+    "rpc": ["https://rpc.cosmos.directory/lumnetwork"],
     "sdk_version": "v0.46.7",
     "coin_type": "880",
     "min_tx_fee": "5000",
