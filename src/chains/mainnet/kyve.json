@@ -1,0 +1,27 @@
+{
+    "chain_name": "kyve",
+    "coingecko": "",
+    "api": [
+        "https://api-explorer.kyve.network",
+        "https://kyve-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://rpc-eu-1.kyve.network",
+        "https://kyve-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.46.10",
+    "addr_prefix": "kyve",
+    "min_tx_fee": "200",
+    "logo": "/logos/kyve.jpg",
+    "assets": [
+        {
+            "base": "ukyve",
+            "symbol": "KYVE",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/kyve.jpg"
+        }
+    ]
+}
