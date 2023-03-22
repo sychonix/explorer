@@ -1,0 +1,24 @@
+{
+    "chain_name": "aura",
+    "coingecko": "aura-network",
+    "api": [
+        "https://lcd.aura.network",
+        "https://aura-api.genznodes.dev"
+        ],
+    "rpc": [
+        "https://snapshot-1.aura.network",
+        "https://aura-rpc.genznodes.dev"
+        ],
+    "sdk_version": "v0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "420",
+    "addr_prefix": "aura",
+    "logo": "/logos/aura.jpg",
+    "assets": [{
+        "base": "uaura",
+        "symbol": "AURA",
+        "exponent": "6",
+        "coingecko_id": "aura-network", 
+        "logo": "/logos/aura.jpg"
+    }]
+}
