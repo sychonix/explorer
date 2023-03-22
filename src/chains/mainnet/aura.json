@@ -2,7 +2,6 @@
     "chain_name": "aura",
     "coingecko": "aura-network",
     "api": [
-        "https://lcd.aura.network",
         "https://aura-api.genznodes.dev"
         ],
     "rpc": [

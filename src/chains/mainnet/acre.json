@@ -2,11 +2,11 @@
     "chain_name": "acre",
     "coingecko": "arable-protocol",
     "api": [
-      "https://rest.cosmos.directory/acre",
+            "https://rest.cosmos.directory/acrechain",
             "https://acre-api.genznodes.dev"                        
           ],
     "rpc": [
-      "https://rpc.cosmos.directory/acre",
+            "https://rpc.cosmos.directory/acrechain",
             "https://acre-rpc.genznodes.dev"                      
           ],
     "sdk_version": "0.46.10",
