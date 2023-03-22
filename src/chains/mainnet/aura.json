@@ -9,9 +9,9 @@
         "https://snapshot-1.aura.network",
         "https://aura-rpc.genznodes.dev"
         ],
-    "sdk_version": "v0.45.10",
+    "sdk_version": "v0.45.11",
     "coin_type": "118",
-    "min_tx_fee": "420",
+    "min_tx_fee": "2000",
     "addr_prefix": "aura",
     "logo": "/logos/aura.jpg",
     "assets": [{
