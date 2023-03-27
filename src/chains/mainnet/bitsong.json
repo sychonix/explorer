@@ -2,10 +2,10 @@
     "chain_name": "bitsong",
     "coingecko": "bitsong",
     "api": [
-        "https://bitsong-api.genznodes.dev"
+        "https://rest.cosmos.directory/bitsong"
         ],
     "rpc": [
-            "https://bitsong-rpc.genznodes.dev"
+            "https://rpc.cosmos.directory/bitsong"
         ],
     "sdk_version": "v0.45.11",
     "coin_type": "639",

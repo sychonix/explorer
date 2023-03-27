@@ -1,8 +1,8 @@
 {
     "chain_name": "meme",
     "coingecko": "meme-network",
-    "api": ["https://meme-api.genznodes.dev"],
-    "rpc": ["https://meme-rpc.genznodes.dev"],
+    "api": ["https://rest.cosmos.directory/meme"],
+    "rpc": ["https://rpc.cosmos.directory/meme"],
     "sdk_version": "v0.45.9",
     "coin_type": "118",
     "min_tx_fee": "8000",
