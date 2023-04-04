@@ -1,9 +1,9 @@
 {
-    "chain_name": "realio-network",
+    "chain_name": "realio",
     "coingecko": "",
-    "api": ["https://realio-api.genznodes.dev"],
-    "rpc": ["https://realio-rpc.genznodes.dev"],
-    "sdk_version": "v0.46.6",
+    "api": ["https://testnet-realio-api.genznodes.dev"],
+    "rpc": ["https://testnet-realio-rpc.genznodes.dev"],
+    "sdk_version": "v0.46.11",
     "coin_type": "60",
     "min_tx_fee": "200",
     "addr_prefix": "ario",
