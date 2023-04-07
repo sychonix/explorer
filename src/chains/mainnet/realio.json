@@ -10,10 +10,10 @@
     "sdk_version": "0.46.11",
     "coin_type": "60",
     "min_tx_fee": "5000000000000000",
-    "addr_prefix": "plq",
+    "addr_prefix": "realio",
     "logo": "/logos/realio.jpg",
     "assets": [{
-        "base": "aplanq",
+        "base": "ario,arst",
         "symbol": "RIO",
         "exponent": "18",
         "coingecko_id": "realio-network",
