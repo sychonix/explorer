@@ -1,0 +1,28 @@
+{
+    "chain_name": "realio",
+    "coingecko": "realio-network",
+    "api": [
+            "https://realio-api.genznodes.dev"
+          ],
+    "rpc": [
+            "https://realio-rpc.genznodes.dev"
+          ],
+    "sdk_version": "0.46.11",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "plq",
+    "logo": "/logos/realio.jpg",
+    "assets": [{
+        "base": "aplanq",
+        "symbol": "RIO",
+        "exponent": "18",
+        "coingecko_id": "realio-network",
+        "logo": "/logos/realio.jpg"
+    }],
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 2000000000,
+      "average": 25000000000,
+      "high": 40000000000
+    }
+}
