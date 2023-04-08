@@ -9,20 +9,29 @@
           ],
     "sdk_version": "0.46.11",
     "coin_type": "60",
-    "min_tx_fee": "5000000000000000",
+    "min_tx_fee": "2000000000000000",
     "addr_prefix": "realio",
-    "logo": "/logos/realio.jpg",
-    "assets": [{
-        "base": "ario,arst",
+    "logo": "/logos/rio.png",
+    "assets": [
+      {
+        "base": "ario",
         "symbol": "RIO",
         "exponent": "18",
         "coingecko_id": "realio-network",
-        "logo": "/logos/realio.jpg"
-    }],
+        "logo": "/logos/rio.png"
+    },
+    {
+      "base": "arst",
+      "symbol": "RST",
+      "exponent": "18",
+      "coingecko_id": "",
+      "logo": "/logos/rst.jpg"
+    }
+  ],
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "keplr_price_step": {
-      "low": 2000000000,
-      "average": 25000000000,
+      "low": 5000000000,
+      "average": 20000000000,
       "high": 40000000000
     }
 }
