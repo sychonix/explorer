@@ -2,9 +2,13 @@
     "chain_name": "xpla",
     "coingecko": "xpla",
     "api": [
+            "https://rest.cosmos.directory/xpla",
+            "http://xpla.api.staking-explorer.com",
             "https://xpla-api.genznodes.dev"
           ],
     "rpc": [
+            "https://rpc.cosmos.directory/xpla",
+            "https://dimension-rpc.xpla.dev",
             "https://xpla-rpc.genznodes.dev"
           ],
     "sdk_version": "v0.45.9",
