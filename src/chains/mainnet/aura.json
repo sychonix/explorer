@@ -2,10 +2,11 @@
     "chain_name": "aura",
     "coingecko": "aura-network",
     "api": [
+        "https://rest.cosmos.directory/aura",
         "https://aura-api.genznodes.dev"
         ],
     "rpc": [
-        "https://snapshot-1.aura.network",
+        "https://rpc.cosmos.directory/aura",
         "https://aura-rpc.genznodes.dev"
         ],
     "sdk_version": "v0.45.11",
