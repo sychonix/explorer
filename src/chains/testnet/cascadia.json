@@ -1,0 +1,28 @@
+{
+    "chain_name": "cascadia",
+    "coingecko": "",
+    "api": [
+            "https://cascadia-api.genznodes.dev"
+          ],
+    "rpc": [
+            "https://cascadia-rpc.genznodes.dev"
+          ],
+    "sdk_version": "v0.46.10",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000",
+    "addr_prefix": "cascadia",
+    "logo": "/logos/cascadia.jpg",
+    "assets": [{
+        "base": "aCC",
+        "symbol": "TCC",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/cascadia.jpg"
+    }],
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 2000000000,
+      "average": 25000000000,
+      "high": 40000000000
+    }
+}
