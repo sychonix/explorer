@@ -2,10 +2,10 @@
     "chain_name": "cascadia",
     "coingecko": "",
     "api": [
-            "https://cascadia-api.genznodes.dev"
+            "https://testnet-cascadia-api.genznodes.dev"
           ],
     "rpc": [
-            "https://cascadia-rpc.genznodes.dev"
+            "https://testnet-cascadia-rpc.genznodes.dev"
           ],
     "sdk_version": "v0.46.10",
     "coin_type": "60",
