@@ -1,0 +1,27 @@
+{
+    "chain_name": "sei",
+    "coingecko": "",
+    "api": [
+        "https://sei-testnet-api.polkachu.com/",
+        "https://testnet-sei-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://sei-testnet-rpc.polkachu.com/",
+        "https://testnet-sei-api.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.45.4",
+    "addr_prefix": "sei",
+    "min_tx_fee": "2000",
+    "logo": "/logos/sei.jpg",
+    "assets": [
+        {
+            "base": "usei",
+            "symbol": "SEI",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/sei.jpg"
+        }
+    ]
+}

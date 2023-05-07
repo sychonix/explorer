@@ -1,0 +1,27 @@
+{
+    "chain_name": "gitopia",
+    "coingecko": "",
+    "api": [
+        "https://gitopia-testnet-api.polkachu.com/",
+        "https://testnet-gitopia-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://gitopia-testnet-rpc.polkachu.com/",
+        "https://testnet-gitopia-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "sdk_version": "0.45.9",
+    "addr_prefix": "gitopia",
+    "min_tx_fee": "2000",
+    "logo": "/logos/gitopia.png",
+    "assets": [
+        {
+            "base": "utlore",
+            "symbol": "TLORE",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/gitopia.jpg"
+        }
+    ]
+}
