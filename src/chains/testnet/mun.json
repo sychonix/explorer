@@ -1,11 +1,16 @@
 {
-    "chain_name": "testmun",
+    "chain_name": "mun",
     "coingecko": "",
-    "api": ["https://mun-api.genznodes.dev"],
-    "rpc": ["https://mun-rpc.genznodes.dev"],
-    "sdk_version": "v0.45.5",
+    "api": [
+        "https://node1api.mun.money",
+        "https://mun-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://node1.mun.money",
+        "https://mun-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.15",
     "coin_type": "118",
-    "min_tx_fee": "200",
+    "min_tx_fee": "2000",
     "addr_prefix": "mun",
     "logo": "/logos/mun.png",
     "assets": [{
