@@ -1,10 +1,9 @@
 {
     "chain_name": "composable",
     "coingecko": "",
-    "api": ["https://testnet-composable-api.genznodes.dev"],
-    "rpc": ["https://testnet-composable-rpc.genznodes.dev"],
+    "api": ["https://testnet-composable-2-api.genznodes.dev"],
+    "rpc": ["https://testnet-composable-2-rpc.genznodes.dev"],
     "sdk_version": "v0.47.1",
-    "tendermint_version": "0.34.20",
     "coin_type": "118",
     "min_tx_fee": "2000",
     "addr_prefix": "banksy",
