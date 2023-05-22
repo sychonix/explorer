@@ -1,0 +1,22 @@
+{
+    "chain_name": "c4e",
+    "coingecko": "",
+    "api": [
+        "https://lcd-testnet.c4e.io"
+        ],
+    "rpc": [
+            "https://rpc-testnet.c4e.io"
+        ],
+    "sdk_version": "v0.45.9",
+    "coin_type": "118",
+    "min_tx_fee": "2000",
+    "addr_prefix": "c4e",
+    "logo": "/logos/c4e.jpg",
+    "assets": [{
+        "base": "uc4e",
+        "symbol": "C4E",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/c4e.jpg"
+    }]
+}
