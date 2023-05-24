@@ -3,9 +3,9 @@
     "coingecko": "",
     "api": ["https://nolus-api.genznodes.dev"],
     "rpc": ["https://nolus-rpc.genznodes.dev"],
-    "sdk_version": "v0.45.10",
+    "sdk_version": "v0.45.15",
     "coin_type": "118",
-    "min_tx_fee": "200",
+    "min_tx_fee": "2000",
     "addr_prefix": "nolus",
     "logo": "/logos/nolus.jpg",
     "assets": [{
