@@ -16,7 +16,7 @@
     "logo": "/logos/planq.jpg",
     "assets": [{
         "base": "aplanq",
-        "symbol": "planq",
+        "symbol": "PLQ",
         "exponent": "18",
         "coingecko_id": "planq",
         "logo": "/logos/planq.jpg"
