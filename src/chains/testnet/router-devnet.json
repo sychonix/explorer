@@ -1,11 +1,11 @@
 {
-    "chain_name": "router",
+    "chain_name": "router-devnet",
     "coingecko": "",
-    "api": ["https://testnet-router-api.genznodes.dev"],
-    "rpc": ["https://testnet-router-rpc.genznodes.dev"],
-    "sdk_version": "v0.46.8",
+    "api": ["https://devnet.lcd.routerprotocol.com/"],
+    "rpc": ["https://devnet.tm.routerprotocol.com/"],
+    "sdk_version": "v0.45.5",
     "coin_type": "60",
-    "min_tx_fee": "2000",
+    "min_tx_fee": "200",
     "addr_prefix": "router",
     "logo": "/logos/router-protocol.jpg",
     "assets": [{
@@ -14,7 +14,6 @@
         "exponent": "18",
         "logo": "/logos/router-protocol.jpg"
     }],
-    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "keplr_price_step": {
         "low": 2000000000,
         "average": 25000000000,
