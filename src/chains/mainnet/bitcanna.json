@@ -2,12 +2,14 @@
     "chain_name": "bitcanna",
     "coingecko": "bitcanna",
     "api": [
+        "https://bitcanna-api.genznodes.dev",
         "https://rest.cosmos.directory/bitcanna"
         ],
     "rpc": [
+        "https://bitcanna-rpc.genznodes.dev",
         "https://rpc.cosmos.directory/bitcanna"
         ],
-    "sdk_version": "v0.45.10",
+    "sdk_version": "v0.45.16",
     "coin_type": "118",
     "min_tx_fee": "420",
     "addr_prefix": "bcna",
