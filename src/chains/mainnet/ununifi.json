@@ -1,0 +1,18 @@
+{
+    "chain_name": "ununifi",
+    "coingecko": "",
+    "api": ["https://ununifi-api.genznodes.dev"],
+    "rpc": ["https://ununifi-rpc.genznodes.dev"],
+    "sdk_version": "v0.47.2",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "ununifi",
+    "logo": "/logos/ununifi.jpg",
+    "assets": [{
+        "base": "uguu",
+        "symbol": "GUU",
+        "coingecko_id": "",
+        "exponent": "6",
+        "logo": "/logos/ununifi.jpg"
+    }]
+}

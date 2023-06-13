@@ -5,12 +5,13 @@
     "rpc": ["https://nolus-rpc.genznodes.dev"],
     "sdk_version": "v0.45.15",
     "coin_type": "118",
-    "min_tx_fee": "2000",
+    "min_tx_fee": "0",
     "addr_prefix": "nolus",
     "logo": "/logos/nolus.jpg",
     "assets": [{
         "base": "unls",
-        "symbol": "NOLUS",
+        "symbol": "NLS",
+        "coingecko_id": "",
         "exponent": "6",
         "logo": "/logos/nolus.jpg"
     }]
