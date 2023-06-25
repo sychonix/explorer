@@ -1,0 +1,17 @@
+{
+    "chain_name": "BonusBlock",
+    "coingecko": "",
+    "api": ["https://bonusblock-api.genznodes.dev"],
+    "rpc": ["https://bonusblock-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "2000",
+    "addr_prefix": "bonus",
+    "logo": "/logos/bonus-block.jpg",
+    "assets": [{
+        "base": "ubonus",
+        "symbol": "BONUS",
+        "exponent": "6",
+        "logo": "/logos/bonus-block.jpg"
+    }]
+}
