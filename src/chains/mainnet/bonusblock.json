@@ -1,8 +1,8 @@
 {
     "chain_name": "BonusBlock",
     "coingecko": "",
-    "api": ["https://bonusblock-api.genznodes.dev"],
-    "rpc": ["https://bonusblock-rpc.genznodes.dev"],
+    "api": ["https://api-t.bonusblock.nodestake.top"],
+    "rpc": ["https://rpc-t.bonusblock.nodestake.top"],
     "sdk_version": "v0.45.11",
     "coin_type": "118",
     "min_tx_fee": "2000",
