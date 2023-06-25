@@ -1,0 +1,17 @@
+{
+    "chain_name": "elys",
+    "coingecko": "",
+    "api": ["https://api.testnet.elys.network","https://test-elys-api.genznodes.dev"],
+    "rpc": ["https://rpc.testnet.elys.network/","https://test-elys-rpc.genznodes.dev"],
+    "sdk_version": "v0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "2000",
+    "addr_prefix": "elys",
+    "logo": "/logos/elys.jpg",
+    "assets": [{
+        "base": "uelys",
+        "symbol": "ELYS",
+        "exponent": "6",
+        "logo": "/logos/elys.jpg"
+    }]
+}
