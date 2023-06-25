@@ -4,9 +4,9 @@
       Powered By
       <b-link
         class="ml-25 font-weight-bolder"
-        href="https://genznodes.dev"
+        href="https://sychonix.me"
         target="_blank"
-      >genznodes.dev</b-link>
+      >sychonix</b-link>
     </span>
 
     <!-- <router-link
