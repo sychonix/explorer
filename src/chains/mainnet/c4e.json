@@ -1,15 +1,15 @@
 {
-    "chain_name": "c4e",
+    "chain_name": "C4E-Testnet",
     "coingecko": "",
     "api": [
-        "https://rest.cosmos.directory/chain4energy"
+        "https://lcd-testnet.c4e.io"
         ],
     "rpc": [
-            "https://rpc.cosmos.directory/chain4energy"
+            "https://rpc-testnet.c4e.io"
         ],
     "sdk_version": "v0.45.9",
     "coin_type": "118",
-    "min_tx_fee": "5000",
+    "min_tx_fee": "2000",
     "addr_prefix": "c4e",
     "logo": "/logos/c4e.jpg",
     "assets": [{
