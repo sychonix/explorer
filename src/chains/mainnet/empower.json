@@ -1,0 +1,24 @@
+{
+    "chain_name": "empower",
+    "coingecko": "",
+    "api": [
+        "https://testnet-empower-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://testnet-empower-rpc.genznodes.dev"
+    ],
+    "coin_type": "118",
+    "sdk_version": "v0.47.2",
+    "addr_prefix": "empower",
+    "min_tx_fee": "2000",
+    "logo": "/logos/empower.jpg",
+    "assets": [
+        {
+            "base": "umpwr",
+            "symbol": "MPWR",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/empower.jpg"
+        }
+    ]
+}
