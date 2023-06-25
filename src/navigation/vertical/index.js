@@ -16,7 +16,7 @@ function processMenu() {
   if (blockchains.length > 1) {
     chainMenus.push({ header: 'ecosystem' })
     chainMenus.push({
-      title: 'blockchains',
+      title: 'BlockChains',
       children: blockchains,
       tag: `${blockchains.length}`,
       icon: 'ChromeIcon',
@@ -25,30 +25,30 @@ function processMenu() {
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
-      title: 'Mainnet Explorer',
-      href: 'https://explorer.genznodes.dev',
-      icon: 'LifeBuoyIcon',
+      title: 'Website Service',
+      href: 'https://service.sychonix.me/',
+      icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'https://testnet-explorer.genznodes.dev',
-      icon: 'LifeBuoyIcon',
+      title: 'Website',
+      href: 'https://sychonix.me',
+      icon: 'ChromeIcon',
     })
   }
   chainMenus.push({
-    title: 'Websites',
-    href: 'https://genznodes.dev',
-    icon: 'ChromeIcon',
+    title: 'Discord',
+    href: 'https://discordapp.com/users/803665234799362088',
+    icon: 'MessageSquareIcon',
   })
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/genznodes',
+    href: 'https://twitter.com/sychonixx',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/Genz22',
+    href: 'https://github.com/sychonix',
     icon: 'GithubIcon',
   })
 
