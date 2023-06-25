@@ -3,17 +3,19 @@
     <full-header />
     <b-link>
       <div class="d-flex justify-content-center align-items-center">
+        <!-- <vuexy-logo /> -->
         <h1
-          class="text-black display-3 font-weight-bolder d-none d-md-block"
-          style="font-family: monospace;border-style: ridge;width: auto; color: #000;border-radius: 1pc; background-color: skyblue;border-color: grey;"
+          class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          genznodes explorer<small class="flow-left">Beta</small>
+        <img src="logo.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
+
+          sychonix | EXPLORER<small class="flow-left"></small>
         </h1>
       </div>
     </b-link>
 
     <h2 class="mb-2">
-      Cosmos Ecosystem 🚀
+      Cosmos Ecosystem Blockchains 🚀
     </h2>
 
     <div>
