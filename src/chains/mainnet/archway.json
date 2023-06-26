@@ -1,0 +1,20 @@
+{
+    "chain_name": "archway-testnet",
+    "api": ["https://archway-testnet.nodejumper.io:1317"],
+    "rpc": ["https://archway-testnet.nodejumper.io:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.14",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "archway",
+    "logo": "/logos/archway.png",
+    "assets": [{
+
+        "base": "aconst",
+        "symbol": "ACONST",
+        "exponent": "18",
+        "logo": "/logos/archway.png"
+      }
+    ]
+  }
+  

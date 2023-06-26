@@ -1,0 +1,19 @@
+{
+    "chain_name": "terp-mainnet",
+    "coingecko": "",
+    "api": ["https://rest.cosmos.directory/terpnetwork"],
+    "rpc": ["https://rpc.cosmos.directory/terpnetwork"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "terp",
+    "logo": "/logos/TerpNetwork.png",
+    "assets": [{
+        "base": "uterp",
+        "symbol": "TERP",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/TerpNetwork.png"
+    }]
+}
