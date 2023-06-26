@@ -1,5 +1,5 @@
 <template>
-  <b-nav-item @click="toggleDarkMode">
+  <b-nav-item @click="toggleDarkMode" v-if="!isDark">
     <feather-icon size="21" :icon="`${isDark ? 'Sun' : 'Moon'}Icon`" />
   </b-nav-item>
 </template>
@@ -19,10 +19,6 @@ export default {
     const isDark = computed(() => skin.value === 'dark')
 
     const toggleDarkMode = () => {
-      if (isDark.value) {
-        return
-      }
-
       useAppConfig().setSkin('dark')
     }
 
