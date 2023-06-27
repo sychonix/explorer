@@ -10,7 +10,7 @@
 // Color system
 
 $white: #fff !default;
-$gray-50: #4b4b4b !default;
+$gray-50: #f6f6f6 !default;
 $gray-100: #babfc7 !default; // $gray-lightest
 $gray-200: #ededed !default; // $gray-lighter
 $gray-300: #dae1e7 !default; // $gray-light
@@ -32,8 +32,8 @@ $primary: $purple !default;
 $secondary: #82868b !default;
 $info: $blue !default;
 $warning: $orange !default;
-$light: $gray-50 !default;
-$dark: #4b4b4b !default;
+$light: #4b4b4b !default; // Theme Light
+$dark: #1e1e1e !default; // Theme Dark
 
 // Spacing
 //
