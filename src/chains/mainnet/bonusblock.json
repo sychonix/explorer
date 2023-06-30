@@ -1,5 +1,5 @@
 {
-    "chain_name": "BonusBlock",
+    "chain_name": "BonusBlock-Testnet",
     "coingecko": "",
     "api": ["https://api-t.bonusblock.nodestake.top"],
     "rpc": ["https://rpc-t.bonusblock.nodestake.top"],
