@@ -1,5 +1,5 @@
 {
-    "chain_name": "composable-2",
+    "chain_name": "composable-testnet-2",
     "coingecko": "",
     "api": ["https://composable-testnet-api.polkachu.com"],
     "rpc": ["https://composable-testnet-rpc.polkachu.com"],
