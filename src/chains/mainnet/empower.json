@@ -1,5 +1,5 @@
 {
-    "chain_name": "empower",
+    "chain_name": "empower-testnet",
     "coingecko": "",
     "api": [
         "https://testnet-empower-api.genznodes.dev"
