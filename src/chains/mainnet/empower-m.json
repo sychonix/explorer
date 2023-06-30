@@ -1,0 +1,21 @@
+{
+
+    "chain_name": "empower-mainnet",
+    "api": ["https://empower-api.polkachu.com/"],
+    "rpc": ["https://empower-rpc.polkachu.com/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.3",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "empower",
+    "logo": "/logos/empower.jpg",
+    "assets": [{
+        "base": "umpwr",
+        "symbol": "MPWR",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/empower.jpg"
+    }]
+  }
+  
