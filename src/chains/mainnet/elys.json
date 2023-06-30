@@ -1,5 +1,5 @@
 {
-    "chain_name": "elys",
+    "chain_name": "elys-testnet",
     "coingecko": "",
     "api": ["https://api.testnet.elys.network","https://test-elys-api.genznodes.dev"],
     "rpc": ["https://rpc.testnet.elys.network/","https://test-elys-rpc.genznodes.dev"],
