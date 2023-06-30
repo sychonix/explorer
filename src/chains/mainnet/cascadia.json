@@ -1,5 +1,5 @@
 {
-    "chain_name": "cascadia",
+    "chain_name": "cascadia-devnet",
     "coingecko": "",
     "api": [
             "https://testnet-cascadia-api.genznodes.dev"
