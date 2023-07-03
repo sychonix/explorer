@@ -1,6 +1,6 @@
 {
 
-    "chain_name": "empower-mainnet",
+    "chain_name": "empower",
     "api": ["https://empower-api.polkachu.com/"],
     "rpc": ["https://empower-rpc.polkachu.com/"],
     "coingecko": "",
