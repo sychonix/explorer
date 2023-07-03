@@ -1,0 +1,22 @@
+{
+    "chain_name": "archway",
+    "api": [
+            "https://api.archway.nodestake.top"
+          ],
+    "rpc": [
+            "https://rpc.archway.nodestake.top"
+          ],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.16",
+    "coin_type": 118,
+    "min_tx_fee": "5000",
+    "addr_prefix": "archway",
+    "logo": "/logos/archway.png",
+    "assets": [{
+        "base": "aarch",
+        "symbol": "ARCH",
+        "exponent": 18,
+        "coingecko_id": "",
+        "logo": "/logos/archway.png"
+    }]
+}
