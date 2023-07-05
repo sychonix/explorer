@@ -15,7 +15,7 @@ export const $themeConfig = {
   },
   layout: {
     isRTL: false,
-    skin: 'bordered', // light, dark, bordered, semi-dark
+    skin: 'dark', // light, dark, bordered, semi-dark
     routerTransition: 'fade-bottom', // zoom-fade, slide-fade, fade-bottom, fade, zoom-out, none
     type: 'vertical', // vertical, horizontal
     contentWidth: 'boxed', // full, boxed
