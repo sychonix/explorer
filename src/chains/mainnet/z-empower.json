@@ -2,10 +2,10 @@
     "chain_name": "empower-testnet",
     "coingecko": "",
     "api": [
-        "https://testnet-empower-api.genznodes.dev"
+        "https://empower-testnet-api.polkachu.com/"
     ],
     "rpc": [
-        "https://testnet-empower-rpc.genznodes.dev"
+        "https://empower-testnet.nodejumper.io:443"
     ],
     "coin_type": "118",
     "sdk_version": "v0.47.2",
