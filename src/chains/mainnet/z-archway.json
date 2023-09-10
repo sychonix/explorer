@@ -1,7 +1,7 @@
 {
     "chain_name": "archway-testnet",
-    "api": ["https://archway-testnet.nodejumper.io:1317"],
-    "rpc": ["https://archway-testnet.nodejumper.io:443"],
+    "api": ["https://api-t.archway.nodestake.top"],
+    "rpc": ["https://rpc-t.archway.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.45.14",
     "coin_type": "118",
