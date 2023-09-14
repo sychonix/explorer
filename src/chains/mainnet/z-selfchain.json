@@ -1,5 +1,5 @@
 {
-    "chain_name": "self-testnet",
+    "chain_name": "selfchain-testnet",
     "api": [
             "https://api-t.self.nodestake.top"
           ],
