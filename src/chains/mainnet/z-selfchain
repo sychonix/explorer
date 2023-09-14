@@ -1,1 +1,22 @@
-halo
+{
+    "chain_name": "self-testnet",
+    "api": [
+            "https://api-t.self.nodestake.top"
+          ],
+    "rpc": [
+            "https://rpc-t.self.nodestake.top"
+          ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": 118,
+    "min_tx_fee": "5000",
+    "addr_prefix": "self",
+    "logo": "/logos/selfchain.jpg",
+    "assets": [{
+        "base": "uself",
+        "symbol": "SEFL",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/selfchain.jpg"
+    }]
+}
