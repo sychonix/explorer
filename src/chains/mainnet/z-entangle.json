@@ -1,0 +1,29 @@
+{
+    "chain_name": "entangle-testnet",
+    "coingecko": "",
+    "api": [
+            "https://api-t.entangle.nodestake.top"
+          ],
+    "rpc": [
+            "https://rpc-t.entangle.nodestake.top"
+          ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.12",
+    "coin_type": 60,
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "ethm",
+    "logo": "/logos/entangle.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 0,
+      "average": 25000000000,
+      "high": 40000000000
+    },
+    "assets": [{
+        "base": "aNGL",
+        "symbol": "NGL",
+        "exponent": 18,
+        "coingecko_id": "",
+        "logo": "/logos/entangle.jpg"
+    }]
+}
