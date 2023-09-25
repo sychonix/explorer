@@ -1,10 +1,10 @@
 {
     "chain_name": "selfchain-testnet",
     "api": [
-            "https://api-t.self.nodestake.top"
+            "https://api-selfchain.vinjan.xyz/"
           ],
     "rpc": [
-            "https://rpc-t.self.nodestake.top"
+            "https://rpc-selfchain.vinjan.xyz/"
           ],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
