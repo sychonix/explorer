@@ -2,10 +2,10 @@
     "chain_name": "entangle-testnet",
     "coingecko": "",
     "api": [
-            "https://api-t.entangle.nodestake.top"
+            "https://api-entangle.vinjan.xyz/"
           ],
     "rpc": [
-            "https://rpc-t.entangle.nodestake.top"
+            "https://rpc-entangle.vinjan.xyz/"
           ],
     "snapshot_provider": "",
     "sdk_version": "0.46.12",
