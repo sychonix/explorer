@@ -1,0 +1,19 @@
+{
+    "chain_name": "mantrachain-testnet",
+    "coingecko": "",
+    "api": ["https://api-mantra.vinjan.xyz/"],
+    "rpc": ["https://rpc-mantra.vinjan.xyz/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "mantra",
+    "logo": "/logos/mantrachain.png",
+    "assets": [{
+        "base": "uaum",
+        "symbol": "AUM",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/mantrachain.png"
+    }]
+}
