@@ -9,7 +9,7 @@
         DISCLAIMER:
       </h4>
       <div class="alert-body">
-        <span>sychonix is maintained by the community, Everyone could add a chain to genznodesExplorer. Some of those blockchains are not fully tested, Use at your own risk.</span>
+        <span>sychonix explorer is maintained by the community, Everyone could add a chain to this explorer. Some of those blockchains are not fully tested, Use at your own risk.</span>
       </div>
     </b-alert>
     <form-wizard
