@@ -1,8 +1,8 @@
 {
     "chain_name": "mantrachain-testnet",
     "coingecko": "",
-    "api": ["https://api-mantra.vinjan.xyz/"],
-    "rpc": ["https://rpc-mantra.vinjan.xyz/"],
+    "api": ["https://api-t.mantra.nodestake.top"],
+    "rpc": ["https://rpc-t.mantra.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.47.4",
     "coin_type": "118",
