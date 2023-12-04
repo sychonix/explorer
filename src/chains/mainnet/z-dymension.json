@@ -1,0 +1,20 @@
+{
+    "chain_name": "sychonix",
+    "chainId": "sychonix_4126408-1",
+    "api": ["https://froopyland.dymension.xyz/23/sychonix_4126408-1-a/rpc"],
+    "rpc": ["https://froopyland.dymension.xyz/23/sychonix_4126408-1-a/rest"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "v0.1.0-rc10",
+    "coin_type": "60",
+    "min_tx_fee": "100",
+    "addr_prefix": "sychonix",
+    "logo": "/logos/sychonix.jpeg",
+    "assets": [{
+        "base": "usynx",
+        "symbol": "SYNX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/sychonix.jpeg"
+    }]
+  }
