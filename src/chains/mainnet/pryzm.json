@@ -1,0 +1,19 @@
+{
+    "chain_name": "pryzm-testnet",
+    "coingecko": "",
+    "api": ["https://pryzm-testnet-api.polkachu.com/"],
+    "rpc": ["https://pryzm-testnet-rpc.polkachu.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.6",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "pryzm",
+    "logo": "/logos/pryzm.jpg",
+    "assets": [{
+        "base": "upryzm",
+        "symbol": "PRYZM",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/pryzm.jpg"
+    }]
+}
